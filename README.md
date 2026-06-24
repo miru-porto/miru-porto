@@ -1,5 +1,4 @@
-## Hi there 👋
-# ¡Hola! Soy Miranda 👋
+## ¡Hola! Soy Miranda 👋
 
 ### Desarrolladora Web Jr · Java / Spring Boot
 
