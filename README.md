@@ -60,14 +60,4 @@ Estudiante de **Ingeniería en Informática** en la FIUBA (50% avanzada), enfoca
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miru-porto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
----
-
-## 📫 Dónde encontrarme
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miranda-portocarrero-0684a9213)
-
-📍 CABA, Argentina
-
----
-
 <p align="center"><i>"Code, build, repeat."</i> ✨</p>
