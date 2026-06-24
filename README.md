@@ -62,19 +62,12 @@ Estudiante de **Ingeniería en Informática** en la FIUBA (50% avanzada), enfoca
 
 ---
 
-## 🌐 Idiomas
-
-- 🇦🇷 **Español** — Nativo
-- 🇬🇧 **Inglés** — Avanzado (C1)
-
----
-
 ## 📫 Dónde encontrarme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miranda-portocarrero-0684a9213)
 
-📍 Almagro, CABA, Argentina
+📍 CABA, Argentina
 
 ---
 
-<p align="center"><i>"Aprender, construir, repetir."</i> ✨</p>
+<p align="center"><i>"Code, build, repeat."</i> ✨</p>
